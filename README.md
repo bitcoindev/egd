@@ -1,1 +1,1 @@
-# egd
+#bitcore
